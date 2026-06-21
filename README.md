@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
