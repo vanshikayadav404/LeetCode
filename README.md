@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
