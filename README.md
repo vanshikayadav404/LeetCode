@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanshikayadav404/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vanshikayadav404/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vanshikayadav404/LeetCode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
