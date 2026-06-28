@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshikayadav404/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/vanshikayadav404/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/vanshikayadav404/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
