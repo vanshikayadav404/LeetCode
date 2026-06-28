@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshikayadav404/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vanshikayadav404/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
@@ -111,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
