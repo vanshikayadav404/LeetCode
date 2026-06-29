@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanshikayadav404/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/vanshikayadav404/LeetCode/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikayadav404/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshikayadav404/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vanshikayadav404/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikayadav404/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
