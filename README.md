@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
