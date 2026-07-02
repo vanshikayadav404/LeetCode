@@ -6,10 +6,11 @@ class Solution {
         {
             if(nums[right]!=0)
             {
-                int temp = nums[right];
-                nums[right] = nums[left];
-                nums[left] = temp;
-                
+                nums[left]=nums[right];
+                {
+                if(right!=left)
+                nums[right]=0;
+                }
                 left++;
             }
         }
