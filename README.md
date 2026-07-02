@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vanshikayadav404/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/vanshikayadav404/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
