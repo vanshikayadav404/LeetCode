@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/vanshikayadav404/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/vanshikayadav404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vanshikayadav404/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/vanshikayadav404/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vanshikayadav404/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vanshikayadav404/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vanshikayadav404/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
