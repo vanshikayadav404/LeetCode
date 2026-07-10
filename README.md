@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vanshikayadav404/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
+| [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -209,4 +211,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
