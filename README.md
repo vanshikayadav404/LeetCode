@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/vanshikayadav404/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/vanshikayadav404/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/vanshikayadav404/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/vanshikayadav404/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
