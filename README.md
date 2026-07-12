@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/vanshikayadav404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vanshikayadav404/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/vanshikayadav404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vanshikayadav404/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
+| [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
