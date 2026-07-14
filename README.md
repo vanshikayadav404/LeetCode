@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vanshikayadav404/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/vanshikayadav404/LeetCode/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -168,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/vanshikayadav404/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vanshikayadav404/LeetCode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
