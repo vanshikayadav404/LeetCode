@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanshikayadav404/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/vanshikayadav404/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/vanshikayadav404/LeetCode/tree/master/0041-first-missing-positive) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vanshikayadav404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikayadav404/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikayadav404/LeetCode/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshikayadav404/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/vanshikayadav404/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vanshikayadav404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vanshikayadav404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
