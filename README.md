@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vanshikayadav404/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vanshikayadav404/LeetCode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/vanshikayadav404/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/vanshikayadav404/LeetCode/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
