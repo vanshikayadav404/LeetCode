@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/vanshikayadav404/LeetCode/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikayadav404/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
