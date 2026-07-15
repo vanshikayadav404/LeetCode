@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vanshikayadav404/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/vanshikayadav404/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/vanshikayadav404/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikayadav404/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vanshikayadav404/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikayadav404/LeetCode/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshikayadav404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/vanshikayadav404/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/vanshikayadav404/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
