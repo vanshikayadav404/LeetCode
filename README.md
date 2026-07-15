@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1399-count-largest-group](https://github.com/vanshikayadav404/LeetCode/tree/master/1399-count-largest-group) |
+| [2929-distribute-candies-among-children-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshikayadav404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshikayadav404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -273,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vanshikayadav404/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
