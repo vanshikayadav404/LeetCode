@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vanshikayadav404/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/vanshikayadav404/LeetCode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanshikayadav404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/vanshikayadav404/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/vanshikayadav404/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikayadav404/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vanshikayadav404/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vanshikayadav404/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikayadav404/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vanshikayadav404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vanshikayadav404/LeetCode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
