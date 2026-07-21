@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vanshikayadav404/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vanshikayadav404/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vanshikayadav404/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/vanshikayadav404/LeetCode/tree/master/2929-distribute-candies-among-children-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vanshikayadav404/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
