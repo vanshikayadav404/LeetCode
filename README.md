@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vanshikayadav404/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/vanshikayadav404/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/vanshikayadav404/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshikayadav404/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/vanshikayadav404/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vanshikayadav404/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/vanshikayadav404/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshikayadav404/LeetCode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
