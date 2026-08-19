@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
 
-        String cleaned = "";
+        String cleaned ="";
 
         for (int i = 0; i < s.length(); i++) {
             char ch = Character.toLowerCase(s.charAt(i));
