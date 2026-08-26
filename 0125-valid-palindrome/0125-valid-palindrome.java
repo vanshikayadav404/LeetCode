@@ -9,7 +9,7 @@ class Solution {
             if (Character.isLetterOrDigit(ch)) {
                 cleaned += ch;
             }
-        }
+        }  
 
         String rev = "";
 
