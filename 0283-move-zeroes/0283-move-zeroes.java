@@ -4,11 +4,9 @@ class Solution {
         int left=0;
         for(int right=0;right<nums.length;right++)
         {
-            if(nums[right]!=0)
-            {
+            if(nums[right]!=0){
                 nums[left]=nums[right];
-                {
-                if(right!=left)
+                if(right!=left){
                 nums[right]=0;
                 }
                 left++;
