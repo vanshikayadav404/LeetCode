@@ -6,8 +6,8 @@ class Solution {
         while (lp<rp){
             int ht = Math.min(height[lp], height[rp]);
                 int width = rp-lp;
-                int currwater = ht*width;
-                maxwater = Math.max(maxwater, currwater);
+                int area = ht*width;
+                maxwater = Math.max(maxwater, area);
                 if(height[lp]<height[rp]){
                     lp++;
                 }
