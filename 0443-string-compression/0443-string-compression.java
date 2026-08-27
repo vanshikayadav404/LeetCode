@@ -10,7 +10,7 @@ class Solution {
             }
             s = s + str.charAt(i);
             if(count > 1){
-                s = s + count.toString();
+                s = s + count.toString(); //String.valueOf(count);
             }
         }
         for(int i=0; i<s.length(); i++){
