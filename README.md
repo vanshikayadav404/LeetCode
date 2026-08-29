@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanshikayadav404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/vanshikayadav404/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vanshikayadav404/LeetCode/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshikayadav404/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
