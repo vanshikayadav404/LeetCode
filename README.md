@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vanshikayadav404/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshikayadav404/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vanshikayadav404/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/vanshikayadav404/LeetCode/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
