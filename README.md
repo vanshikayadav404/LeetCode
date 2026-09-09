@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vanshikayadav404/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanshikayadav404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2090-k-radius-subarray-averages](https://github.com/vanshikayadav404/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshikayadav404/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/vanshikayadav404/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshikayadav404/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/vanshikayadav404/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshikayadav404/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/vanshikayadav404/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
