@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/vanshikayadav404/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vanshikayadav404/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/vanshikayadav404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/vanshikayadav404/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vanshikayadav404/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vanshikayadav404/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vanshikayadav404/LeetCode/tree/master/0729-my-calendar-i) |
 | [0888-fair-candy-swap](https://github.com/vanshikayadav404/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vanshikayadav404/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vanshikayadav404/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
