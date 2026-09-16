@@ -15,9 +15,6 @@ class Solution {
             left=mid+1;
         }
         }
-        if(target>nums[mid])
-        return mid+1;
-        else
-        return mid;
+        return left;
     }
 }
