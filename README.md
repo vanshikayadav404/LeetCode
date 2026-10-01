@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My LeetCode solutions in [Java], pushed automatically with the LeetHub v2 browser extension. I use this repo to practice data structures and algorithms and to notice patterns across problems.
+My LeetCode solutions in   Java, pushed automatically with the LeetHub v2 browser extension. I use this repo to practice data structures and algorithms and to notice patterns across problems.
 
 Profile: https://leetcode.com/u/vanshikayadav404/
 Solved: 200+
