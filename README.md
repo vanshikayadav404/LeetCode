@@ -3,7 +3,7 @@
 My LeetCode solutions in [Java], pushed automatically with the LeetHub v2 browser extension. I use this repo to practice data structures and algorithms and to notice patterns across problems.
 
 Profile: https://leetcode.com/u/vanshikayadav404/
-Solved: 200+ [update when you like]
+Solved: 200+
 
 Each problem has its own folder, named with the problem number and title. The topic tables below link to each solution.
 
