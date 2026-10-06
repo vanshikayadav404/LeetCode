@@ -219,6 +219,7 @@ Portfolio: https://vanshikayadav404.github.io/
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vanshikayadav404/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vanshikayadav404/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshikayadav404/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/vanshikayadav404/LeetCode/tree/master/0500-keyboard-row) |
@@ -260,6 +261,7 @@ Portfolio: https://vanshikayadav404.github.io/
 | [0283-move-zeroes](https://github.com/vanshikayadav404/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikayadav404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/vanshikayadav404/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vanshikayadav404/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikayadav404/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vanshikayadav404/LeetCode/tree/master/0567-permutation-in-string) |
@@ -389,6 +391,7 @@ Portfolio: https://vanshikayadav404.github.io/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vanshikayadav404/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0392-is-subsequence](https://github.com/vanshikayadav404/LeetCode/tree/master/0392-is-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshikayadav404/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshikayadav404/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vanshikayadav404/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
