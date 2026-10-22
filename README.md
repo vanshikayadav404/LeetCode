@@ -327,6 +327,7 @@ Portfolio: https://vanshikayadav404.github.io/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vanshikayadav404/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vanshikayadav404/LeetCode/tree/master/0326-power-of-three) |
@@ -372,6 +373,7 @@ Portfolio: https://vanshikayadav404.github.io/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikayadav404/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanshikayadav404/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
